@@ -1,0 +1,190 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573009883395@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B7F79AD26E802F945F',
+    participant: undefined
+  },
+  messageTimestamp: 1719518707,
+  pushName: 'Districool',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buebnas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Districool',
+  body: 'Buebnas',
+  from: '573009883395'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_12df6be5-c322-477d-a397-0a7205a771e4',
+  keyword: 'key_19e4fbff-6021-4575-a020-490ab8e51cc3',
+  answer: 'Aquí tienes el catálogo de nuestros productos 🍦 :\n' +
+    'https://drive.google.com/file/d/13mJPxE1VdhscKJ-wiaycDpzlwOCE6oOt/view\n' +
+    '4. Si desea volver al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '18bc9812de9b21605dde01d87814b425'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573009883395@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01AB32BE160FE0B81CC',
+    participant: undefined
+  },
+  messageTimestamp: 1719518709,
+  pushName: 'Districool',
+  broadcast: false,
+  message: Message {
+    conversation: 'buenas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Districool',
+  body: 'buenas',
+  from: '573009883395'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_10ea1e15-5eaa-4529-b91d-7833cb329865',
+  keyword: 'key_df76a7b8-7765-4ecc-8349-9f90aa8c40ed',
+  answer: 'Bienvenido, Se ha  comunicado con DISTRICOOL. Empresa autorizada de helados tonny para la comercialización y distribución de sus productos a través de domicilio, cuéntanos en qué te podemos ayudar',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '992949283dcf56c84c8fe4590c81e48d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8a1db40b-9c32-4ccc-ae6f-231d3c1150f2',
+  keyword: 'ans_10ea1e15-5eaa-4529-b91d-7833cb329865',
+  answer: '1. Te interesa ver el catálogo de productos?\n' +
+    '2. Estás interesado en vender nuestros productos?\n' +
+    '3. Comunicarte con un asesor de ventas\n' +
+    '4. Volver al menú principal\n' +
+    'Si eres cliente habitual, en un momento te atenderemos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a1c83b27cef371610f2b0f9b5aa3329c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573007634221@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01E472ED129D42F366D',
+    participant: undefined
+  },
+  messageTimestamp: 1719518719,
+  pushName: 'Hernancho 😎',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Uy pa',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Uy pa',
+  from: '573007634221'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573007634221@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0ADFEF5EC54720430D9',
+    participant: undefined
+  },
+  messageTimestamp: 1719518720,
+  pushName: 'Hernancho 😎',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Mira',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mira',
+  from: '573007634221'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_12df6be5-c322-477d-a397-0a7205a771e4',
+  keyword: 'key_19e4fbff-6021-4575-a020-490ab8e51cc3',
+  answer: 'Aquí tienes el catálogo de nuestros productos 🍦 :\n' +
+    'https://drive.google.com/file/d/13mJPxE1VdhscKJ-wiaycDpzlwOCE6oOt/view\n' +
+    '4. Si desea volver al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '18bc9812de9b21605dde01d87814b425'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_12df6be5-c322-477d-a397-0a7205a771e4',
+  keyword: 'key_19e4fbff-6021-4575-a020-490ab8e51cc3',
+  answer: 'Aquí tienes el catálogo de nuestros productos 🍦 :\n' +
+    'https://drive.google.com/file/d/13mJPxE1VdhscKJ-wiaycDpzlwOCE6oOt/view\n' +
+    '4. Si desea volver al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '18bc9812de9b21605dde01d87814b425'
+}
